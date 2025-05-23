@@ -1,5 +1,3 @@
-# Bow-A-Game-
-
 const svg = document.querySelector("svg");
 const cursor = svg.createSVGPoint();
 
